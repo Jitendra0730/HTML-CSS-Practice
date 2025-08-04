@@ -1,0 +1,28 @@
+.text-heading {
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 4px;
+}
+.course-goal {
+    font-family: Verdana;
+    font-size: 14px;
+    color: gray;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.text-description {
+    font-family: Verdana;
+    font-size: 14px;
+    width: 250px;
+    line-height: 20px;
+    margin-top: 0;
+}
+.start-button {
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 15px 8px 15px;
+    cursor: pointer;
+}

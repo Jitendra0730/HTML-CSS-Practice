@@ -1,0 +1,25 @@
+p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.rate {
+    font-size: 32px;
+    margin-bottom: 8px;
+}
+.rate-usd {
+    font-size: 18px;
+    color: gray;
+}
+.stock-today {
+    color: rgb(35, 141, 35);
+    margin-bottom: 8px;
+}
+.after-hours {
+    font-size: 18px;
+    color: gray;
+}
+.stock-later {
+    font-size: 18px;
+    color: rgb(181, 10, 10);
+}

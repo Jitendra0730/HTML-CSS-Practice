@@ -1,0 +1,7 @@
+.green {
+    height: 100px;
+    width: 100px;
+    border: none;
+    background-color: green;
+    border-radius: 50px;
+}

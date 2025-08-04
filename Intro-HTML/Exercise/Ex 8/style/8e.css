@@ -1,0 +1,36 @@
+.text-heading {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 26px;
+}
+.location,
+.destination {
+    display: block;
+    font-size: 16px;
+    border: none;
+    background-color: rgb(235, 235, 235);
+    border-width: 1px;
+    margin-top: 8px;
+    width: 300px;
+    padding: 8px 12px 8px 8px;
+}
+.request {
+    border: none;
+    font-family: Arial;
+    font-size: 16px;
+    color: white;
+    background-color: black;
+    padding: 8px 12px 8px 12px;
+    margin-top: 28px;
+    margin-right: 8px;
+    cursor: pointer;
+}
+.schedule {
+    border: none;
+    font-family: Arial;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(217, 217, 217);
+    padding: 8px 12px 8px 12px;
+    cursor: pointer;
+}

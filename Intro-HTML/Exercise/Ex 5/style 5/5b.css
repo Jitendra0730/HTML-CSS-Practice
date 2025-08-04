@@ -1,0 +1,12 @@
+.text-bold {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 8px;
+}
+.text-days {
+    font-family: Arial;
+    color: red;
+    margin-top: 0;
+    font-style: italic;
+}

@@ -1,0 +1,22 @@
+.youtube-music {
+    border: solid;
+    border-width: 1px;
+    border-color: rgb(40, 40, 40);
+    background-color: rgb(40, 40, 40);
+    height: 140px;
+    width: 450px;
+}
+.heading {
+    font-family: Arial;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    margin-left: 10px;
+}
+.description {
+    font-family: Arial;
+    font-size: 14px;
+    margin-left: 10px;
+    color: rgb(198, 197, 197);
+    width: 320px;
+}
